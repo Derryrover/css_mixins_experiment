@@ -1,0 +1,18 @@
+@mixin --box-bb() {
+  @result {
+        width: 300px;
+        height: 100px;
+        background-color: red;
+  }
+}
+.somediv1 {
+    /* background-color:  purple; */
+    @apply --box-bb;
+    background-color:  purple;
+    
+    
+}
+
+.somediv2 {
+    @apply --box-bb;
+}

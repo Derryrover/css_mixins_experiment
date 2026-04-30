@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainers-extra/features/caddy:1": {
+      "version": "1.0.10",
+      "resolved": "ghcr.io/devcontainers-extra/features/caddy@sha256:eb139601deef6a3e2490a9bc8caa3b2bbad0f65e6f0f3fee83b93f82c96bab43",
+      "integrity": "sha256:eb139601deef6a3e2490a9bc8caa3b2bbad0f65e6f0f3fee83b93f82c96bab43"
+    }
+  }
+}
