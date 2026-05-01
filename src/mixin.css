@@ -1,4 +1,4 @@
-@mixin --red-box() {
+@mixin --redbox() {
   @result {
         width: 300px;
         height: 100px;

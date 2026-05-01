@@ -1,12 +1,22 @@
 
 /* @import url("/apply.css"); */
 
-@import url("/mixin.css");
+@import url("mixin.css");
+@import url("mixin-color.css");
+
 
 .somediv1 {
-    @apply --red-box;
+    background-color: purple;
+    @apply --redbox;
+    
 }
 
 .somediv2 {
-    @apply --red-box;
+    @apply --redbox;
+}
+
+.somediv3 {
+    @apply --redbox;
+    @apply --greencolor;
+    
 }
