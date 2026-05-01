@@ -1,18 +1,12 @@
-@mixin --box-bb() {
-  @result {
-        width: 300px;
-        height: 100px;
-        background-color: red;
-  }
-}
+
+/* @import url("/apply.css"); */
+
+@import url("/mixin.css");
+
 .somediv1 {
-    /* background-color:  purple; */
-    @apply --box-bb;
-    background-color:  purple;
-    
-    
+    @apply --red-box;
 }
 
 .somediv2 {
-    @apply --box-bb;
+    @apply --red-box;
 }

@@ -1,0 +1,11 @@
+@import url("/mixin.css");
+
+.somediv1 {
+    @apply --box-bb;
+    /* background-color:  purple; */
+    /* @apply --box-bb; */
+}
+
+.somediv2 {
+    @apply --box-bb;
+}

@@ -14,4 +14,6 @@ Further I followed this tutorial:
 https://javascript.plainenglish.io/css-mixins-are-here-and-theyre-about-to-change-everything-4bfe72d7b16e
 
 Check if browser supports it here:
-https://wpt.fyi/results/css/css-mixins?label=experimental&label=master&aligned
+https://wpt.fyi/results/css/css-mixins?label=experimental&label=master&aligned  
+
+You can also click on a test and then test in current browser.  
